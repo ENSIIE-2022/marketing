@@ -31,7 +31,8 @@ Budget ------------ Delai
 Amont ----> Pendant ----> Aval
 
 
-Force / Faiblesse -> Micro Environnement + SWOT -> Interne à l'entreprise
+Force / Faiblesse -> Micro Environnement -> Interne à l'entreprise
+
 Modèle SWOT (Strength Weakness Opportunities Threat) -> Phase préparatoire du plan marketing -> Etude du marché
 
 Exemple de faiblesse: 
