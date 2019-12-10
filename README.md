@@ -1,4 +1,4 @@
-# marketing
+# Marketing
 
 Politique de prix :
   - Ecremage : Prix élevés
@@ -69,10 +69,13 @@ lequel individus et groupes satisfont leurs besoins et désirs au moyen de la cr
 l’échange de produits et autres entités de valeur pour autrui »
 
 Les concepts clé du marketing :
-<img src="">
+<img src="https://github.com/ENSIIE-2022/marketing/blob/master/Concept%20cl%C3%A9.png?raw=true">
 
 Pyramide de Maslow (http://alain.battandier.free.fr/spip.php?article6) :
-<img src="http://alain.battandier.free.fr/IMG/jpg/Pyramide_Maslow.jpg">
+<img src="https://github.com/ENSIIE-2022/marketing/blob/master/Pyramide-des-besoins-humains-de-Maslow.jpg?raw=true">
+
+Attitude marketing :
+<img src="https://github.com/ENSIIE-2022/marketing/blob/master/Attitude%20marketing.png">
 
 # Produits
 
@@ -115,3 +118,6 @@ Démarche stratégique / Marketing stratégique :
   
 Démarche opérationnelle / marketing opérationnel :
   C’est au cours de cette étape que seront matérialisés les choix opérés au cours des deux démarches précédentes
+
+# REVISEZ BIEN 
+<img src="https://github.com/ENSIIE-2022/marketing/blob/master/doggo.jpg">
