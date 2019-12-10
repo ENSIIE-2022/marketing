@@ -2,7 +2,7 @@
 
 Client ROI => Return On Investisment 
   
-**Marketing Mix (4P) :**
+### Marketing Mix (4P) :
   - **Product** (Produit)
   
   - **Price** (Prix) : politique de prix \
@@ -21,7 +21,7 @@ Client ROI => Return On Investisment
   faire agir (faire acheter).
   La communication peut être media (Radio, Télé) et hors média (Bouche à oreille)
   
-**Assortiment** :
+### Assortiment :
   - Large (Ex : Renault a beaucoup de modèles de voitures)
   - Profond (Ex : Chaque modèle de voiture a plusieurs références : Rs, coupé, berline)
   - Large et profond
@@ -34,7 +34,8 @@ Budget ------------ Delai
 
 Amont ----> Pendant ----> Aval
 
-**Modèle SWOT (Strength Weakness Opportunities Threat)** -> Phase préparatoire du plan marketing -> Etude du marché
+### Modèle SWOT (Strength Weakness Opportunities Threat)
+-> Phase préparatoire du plan marketing -> Etude du marché
 
   - Forces / Faiblesses -> Micro Environnement -> Interne à l'entreprise \
   Ex de forces : parts de marché importantes, force de vente importante, solidité financière \
@@ -43,15 +44,15 @@ Amont ----> Pendant ----> Aval
   - Opportunités / Menaces -> Macro Environnement + PESTEL -> Externe à l'entreprise \
   PESTEL (Politique Economique Sociale Technologique Ecologique Légal)
 
-**Stratégie marketing :**
+### Stratégie marketing :
 
-1. Segmentation : déterminer des sous-groupes au sein de l'ensemble des clients de l'entreprise selon des critères tels que le sexe, le pouvoir d'achat, l'age, la catégorie socio-professionnelle, la zone géographique... \
+**1. Segmentation :** déterminer des sous-groupes au sein de l'ensemble des clients de l'entreprise selon des critères tels que le sexe, le pouvoir d'achat, l'age, la catégorie socio-professionnelle, la zone géographique... \
 J'adapte chaque gamme à chaque segment
 
-2. Ciblage : Tu prends plusieurs segments et les regroupés pour en faire une cible
+**2. Ciblage :** Tu prends plusieurs segments et les regroupés pour en faire une cible
 
-3. Positionnement : image que l'entreprise souhaite véhiculer dans l'esprit du consommateur afin de se différencier de ses concurrents. Il dépend des segments auquels l'entreprise s'adresse. \
-/!\ positionnement ≠ image de marque (=perception des produits de l'entreprise par le consommateur). 
+**3. Positionnement :** image que l'entreprise souhaite véhiculer dans l'esprit du consommateur afin de se différencier de ses concurrents. Il dépend des segments auquels l'entreprise s'adresse. \
+**/!\ positionnement ≠ image de marque** (=perception des produits de l'entreprise par le consommateur). 
 
 
 #PDF
