@@ -5,6 +5,8 @@ Politique de prix :
   - Alignement : Prix normaux
   - Pénétration / Prédateur : Prix bas
   
+Client ROI => Return On Investisment 
+  
 4P:
   - Product (Produit)
   - Price (Prix)
@@ -28,22 +30,20 @@ Budget ------------ Delai
 
 Amont ----> Pendant ----> Aval
 
-Modèle SWOT (Strength Weakness Opportunities Threat)
+Modèle SWOT (Strength Weakness Opportunities Threat) -> Phase préparatoire du plan marketing -> Etude du marché
 
-Forces : Oui
-Faiblesse : -la localisation (zone de chalandise (Charantonis))
+Force / Faiblesse -> Micro Environnement
+
+Exemple de faiblesse: -la localisation (zone de chalandise (Charantonis))
             -Dettes
             -Problème de production
             -Main d'oeuvre moins qualifié
 
-                  |  Opportunités:
-Environnement     |
-Macro environment |
-                  |  Menaces:
+Opportunité / Menaces -> Macro Environnement + PESTEL
                     
 PESTEL (Politique Economique Sociale Technologique Ecologique Légal)
 
-Segmentation : Sexe, Pouvoir d'achat, Age, Catégories Sociaux Pro
+Segmentation (Decoupage du marché en sous segment homogène) : : Sexe, Pouvoir d'achat, Age, Catégories Sociaux Pro
 
 J'adapte chaque gamme à chaque segment
 Ciblage : Tu prends plusieurs segments et les regroupés pour en faire une cible
