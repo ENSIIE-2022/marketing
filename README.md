@@ -30,16 +30,17 @@ Budget ------------ Delai
 
 Amont ----> Pendant ----> Aval
 
+
+Force / Faiblesse -> Micro Environnement + SWOT -> Interne à l'entreprise
 Modèle SWOT (Strength Weakness Opportunities Threat) -> Phase préparatoire du plan marketing -> Etude du marché
 
-Force / Faiblesse -> Micro Environnement
+Exemple de faiblesse: 
+-la localisation (zone de chalandise (Charantonis))
+-Dettes
+-Problème de production
+-Main d'oeuvre moins qualifié
 
-Exemple de faiblesse: -la localisation (zone de chalandise (Charantonis))
-            -Dettes
-            -Problème de production
-            -Main d'oeuvre moins qualifié
-
-Opportunité / Menaces -> Macro Environnement + PESTEL
+Opportunité / Menaces -> Macro Environnement + PESTEL -> Externe à l'entreprise
                     
 PESTEL (Politique Economique Sociale Technologique Ecologique Légal)
 
