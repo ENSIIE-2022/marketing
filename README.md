@@ -1,31 +1,28 @@
 # Marketing
 
-Politique de prix :
-  - Ecrémage : Prix supérieur aux concurrents (ex: Apple),
-  - Alignement : Prix proche des concurrents (ex: HP),
-  - Pénétration / Prédateur : Prix inférieur aux concurrents (ex: Free).
-  
 Client ROI => Return On Investisment 
   
-4P:
-  - Product (Produit)
-  - Price (Prix) : écrémage, alignement ou prédateur
-  - Place (Distribution) : \
+**Marketing Mix (4P) :**
+  - **Product** (Produit)
+  
+  - **Price** (Prix) : politique de prix \
+  Ecrémage : Prix supérieur aux concurrents (ex: Apple), \
+  Alignement : Prix proche des concurrents (ex: HP), \
+  Pénétration / Prédateur : Prix inférieur aux concurrents (ex: Free).
+  
+  - **Place** (Distribution) : \
   distrib intensive (vendre dans le max de points de vente), \
   distrib sélective (sélection des points de vente),\
   distrib exclusive (exclusivité de la distribution des produits donnée à quelques distributeurs).
   
-  - Promotion (Communication) : 
+  - **Promotion** (Communication) : 
   faire connaître (entreprise + produits & services),
   faire aimer (donner une bonne image),
   faire agir (faire acheter).
+  La communication peut être media (Radio, Télé) et hors média (Bouche à oreille)
   
-  La communication peut être :
-  - Media (Radio, Télé)
-  - Hors média (Bouche à oreille)
-  
-Assortiment :
-  - Large (Ex : Renault à beaucoup de modèles de voitures)
+**Assortiment** :
+  - Large (Ex : Renault a beaucoup de modèles de voitures)
   - Profond (Ex : Chaque modèle de voiture a plusieurs références : Rs, coupé, berline)
   - Large et profond
   
@@ -37,19 +34,16 @@ Budget ------------ Delai
 
 Amont ----> Pendant ----> Aval
 
-Modèle SWOT (Strength Weakness Opportunities Threat) -> Phase préparatoire du plan marketing -> Etude du marché
+**Modèle SWOT (Strength Weakness Opportunities Threat)** -> Phase préparatoire du plan marketing -> Etude du marché
 
-Forces / Faiblesses -> Micro Environnement -> Interne à l'entreprise
+  - Forces / Faiblesses -> Micro Environnement -> Interne à l'entreprise \
+  Ex de forces : parts de marché importantes, force de vente importante, solidité financière \
+  Ex de faiblesses: la localisation (zone de chalandise (Charantonis)), dettes, problème de production, main d'oeuvre moins qualifiée
 
-Ex de forces : parts de marché importantes, force de vente importante, solidité financière
+  - Opportunités / Menaces -> Macro Environnement + PESTEL -> Externe à l'entreprise \
+  PESTEL (Politique Economique Sociale Technologique Ecologique Légal)
 
-Ex de faiblesses: la localisation (zone de chalandise (Charantonis)), dettes, problème de production, main d'oeuvre moins qualifiée
-
-Opportunités / Menaces -> Macro Environnement + PESTEL -> Externe à l'entreprise
-                    
-PESTEL (Politique Economique Sociale Technologique Ecologique Légal)
-
-Stratégie marketing :
+**Stratégie marketing :**
 
 1. Segmentation : déterminer des sous-groupes au sein de l'ensemble des clients de l'entreprise selon des critères tels que le sexe, le pouvoir d'achat, l'age, la catégorie socio-professionnelle, la zone géographique... \
 J'adapte chaque gamme à chaque segment
